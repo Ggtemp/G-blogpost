@@ -1,0 +1,37 @@
+/* ADD styling for all of the divs in post.html to match  */
+
+header{
+    background-position: center;
+
+}
+#individual-post-title {
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    font-size: 2em;
+    color: #333;
+    font-weight: 600;
+
+
+}
+
+#individual-post-date {
+    font-size: 12px;
+    color: #adb5bd;
+    font-weight: 600;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    padding-left: 16px;
+    border-bottom: 1px solid #f1f4f8; 
+    border-top: 1px solid #f1f4f8;
+}
+
+#individual-post-content {
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: #495057;
+    line-height: 1.4;
+
+
+} 
